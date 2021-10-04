@@ -8,7 +8,10 @@
     padding: 5px;
 }
 .navbar-container{
+    top: 0;
     background-color: #272B39;
+    position: sticky;
+    z-index: 2;
 }
 .about-container{
     background-color: #00A0B6;
@@ -27,4 +30,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
+}
+.project-container{
+    background-color: #21A7E5;
 }
