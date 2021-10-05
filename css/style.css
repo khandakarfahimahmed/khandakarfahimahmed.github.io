@@ -22,6 +22,9 @@
 .bg-redtype{
     background-color: #F2897A;
 }
+.bg-redtype:hover{
+    color: black!important;
+}
 .redtype-color{
     color: #F2897A;
 }
@@ -33,4 +36,22 @@
 }
 .project-container{
     background-color: #21A7E5;
+}
+.gallery-container{
+    background-color: #17848b;
+}
+.bg-skytype{
+    color: #1cc9e0;
+}
+.form-container{
+    background-color: #474C5E;
+}
+.hy{
+    padding-left: 9%;
+}
+.by{
+    padding-right: 9%;
+}
+.inner-form{
+    background-color: #575F78;
 }
