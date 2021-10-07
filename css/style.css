@@ -55,3 +55,22 @@
 .inner-form{
     background-color: #575F78;
 }
+.footer{
+    background-color: #1D91C6;
+}
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #1D91C6;
+}
+.circle2:hover{
+    background-color: #474C5E;
+}
+.align-right{
+    text-align: right;
+}
